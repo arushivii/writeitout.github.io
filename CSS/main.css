@@ -1,0 +1,25 @@
+body{
+    color: white ;
+    background-color: black ;
+    margin-left: 3% ;
+    margin-right: 2% ;
+    margin-block-start: 2% ;
+}
+img{
+   height: 10cm ;
+   width: 9cm ;
+   align-content: center ;
+   align-self: center ;
+   margin-left: 40%;
+   margin-right: 30%;
+   margin-top: 1.5%;
+   background-color: blue ;
+   align-items: center ;
+   position: center;
+}
+audio{
+    margin-left: 41%;
+    color: burlywood;
+    position: center;
+    margin-top: 0%;
+}
